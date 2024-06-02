@@ -1,3 +1,5 @@
+pip install textblob
+
 from textblob import TextBlob
 # Valence Aware Dictionary for Sentiment Reasoning (VADER) is rule based sentiment analyzer
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
